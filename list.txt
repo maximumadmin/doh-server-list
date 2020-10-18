@@ -13,6 +13,8 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-de.blahdns.com
 example.doh.blockerdns.com
+free.bravedns.com
+bravedns.com
 doh.captnemo.in
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
