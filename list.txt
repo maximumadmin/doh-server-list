@@ -50,6 +50,8 @@ ordns.he.net
 jcdns.fun
 jp.tiar.app
 jp.tiarap.org
+us1.dns.lavate.ch
+eu1.dns.lavate.ch
 resolver-eu.lelux.fi
 doh.libredns.gr
 dns.nextdns.io
