@@ -48,6 +48,7 @@ dns64.dns.google
 dns.hostux.net
 ordns.he.net
 jcdns.fun
+jit.ddns.net
 jp.tiar.app
 jp.tiarap.org
 us1.dns.lavate.ch
