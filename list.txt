@@ -2,6 +2,8 @@ dns-nyc.aaflalo.me
 dns.aaflalo.me
 dns.adguard.com
 dns-family.adguard.com
+doh.nl.ahadns.net
+doh.in.ahadns.net
 dns.alidns.com
 dns.aa.net.uk
 dnses.alekberg.net
