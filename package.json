@@ -1,0 +1,13 @@
+{
+  "name": "doh-server-list",
+  "version": "1.0.0",
+  "main": "parser.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6"
+  }
+}
