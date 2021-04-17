@@ -1,6 +1,8 @@
 name: Update
 
-on: push
+on:
+  schedule:
+  - cron: '0 11 * * 5'
 
 jobs:
   build:
