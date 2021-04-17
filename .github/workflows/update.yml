@@ -18,7 +18,11 @@ jobs:
           echo "List files differ, a new pull request will be created"
           mv list.new.txt list.txt
           echo "CREATE_PULL_REQUEST=1" >> $GITHUB_ENV
+          echo "NOW=$(date +'%Y-%m-%d_%H.%M.%S')" >> $GITHUB_ENV
         fi
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       if: $${{ env.CREATE_PULL_REQUEST == '1' }}
+      with:
+        title: Update domain list
+        branch: ${{ env.NOW }}-update-domain-names
