@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '0 9 * * 6'
+    - cron: '0 10 * * 6'
 
 jobs:
   build:
@@ -13,7 +13,6 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: 14.x
-    - run: date && exit 1
     - run: npm i
     - run: |
         node parser.js > list.new.txt
