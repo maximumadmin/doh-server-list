@@ -6,7 +6,7 @@ on:
     - cron: '0 11 * * 2'
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -27,7 +27,7 @@ jobs:
         fi
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
-      if: $${{ env.CREATE_PULL_REQUEST == '1' }}
+      if: ${{ env.CREATE_PULL_REQUEST == '1' }}
       with:
         title: Update domain list
         branch: ${{ env.NOW }}-update-domain-list
