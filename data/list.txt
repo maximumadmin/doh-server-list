@@ -16,6 +16,7 @@ dns.aa.net.uk
 dnses.alekberg.net
 dnsnl.alekberg.net
 dnsse.alekberg.net
+dns.arapurayil.com
 doh.42l.fr
 doh.doh.my.id
 doh-ch.blahdns.com
@@ -70,6 +71,8 @@ dns.nextdns.io
 my.nextdns.io
 dns.dns-over-https.com
 doh.post-factum.tk
+hydra.plan9-ns1.com
+draco.plan9-ns2.com
 doh.powerdns.org
 dns.quad9.net
 dns9.quad9.net
@@ -83,6 +86,7 @@ dns.switch.ch
 doh.tiar.app
 doh.tiarap.org
 dns.twnic.tw
+adfree.usableprivacy.net
 doh.crypto.sx
 ibksturm.synology.me
 freedom.mydns.network
