@@ -19,10 +19,13 @@ jobs:
         node-version: 14.x
     - run: npm i
     - run: |
-        node parser.js > list.new.txt
+        node parser.js > data/list.new.txt
+        cd data/
         if [ "$(diff list.txt list.new.txt)" ]; then
           echo "List files differ, a new pull request will be created"
           mv list.new.txt list.txt
+          sed -r 's/^/127.0.0.1 /' list.txt > loop.txt
+          sed -r 's/^/0.0.0.0 /' list.txt > null.txt
           echo "CREATE_PULL_REQUEST=1" >> $GITHUB_ENV
           echo "NOW=$(date +'%Y-%m-%d_%H.%M.%S')" >> $GITHUB_ENV
         else
