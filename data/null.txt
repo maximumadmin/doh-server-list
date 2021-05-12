@@ -85,6 +85,7 @@
 0.0.0.0 dns.switch.ch
 0.0.0.0 doh.tiar.app
 0.0.0.0 doh.tiarap.org
+0.0.0.0 doh.this.web.id
 0.0.0.0 dns.twnic.tw
 0.0.0.0 adfree.usableprivacy.net
 0.0.0.0 doh.crypto.sx

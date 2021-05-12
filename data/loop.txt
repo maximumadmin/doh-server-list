@@ -85,6 +85,7 @@
 127.0.0.1 dns.switch.ch
 127.0.0.1 doh.tiar.app
 127.0.0.1 doh.tiarap.org
+127.0.0.1 doh.this.web.id
 127.0.0.1 dns.twnic.tw
 127.0.0.1 adfree.usableprivacy.net
 127.0.0.1 doh.crypto.sx
