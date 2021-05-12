@@ -85,6 +85,7 @@ fi.doh.dns.snopyta.org
 dns.switch.ch
 doh.tiar.app
 doh.tiarap.org
+doh.this.web.id
 dns.twnic.tw
 adfree.usableprivacy.net
 doh.crypto.sx
