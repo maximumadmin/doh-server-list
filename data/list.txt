@@ -41,6 +41,7 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 doh.xfinity.com
+commons.host
 freedns.controld.com
 odvr.nic.cz
 dns.digitale-gesellschaft.ch
