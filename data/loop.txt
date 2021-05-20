@@ -41,6 +41,7 @@
 127.0.0.1 family.cloudflare-dns.com
 127.0.0.1 dns64.cloudflare-dns.com
 127.0.0.1 doh.xfinity.com
+127.0.0.1 commons.host
 127.0.0.1 freedns.controld.com
 127.0.0.1 odvr.nic.cz
 127.0.0.1 dns.digitale-gesellschaft.ch
