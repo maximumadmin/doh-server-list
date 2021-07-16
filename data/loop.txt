@@ -1,6 +1,11 @@
 127.0.0.1 dns-nyc.aaflalo.me
 127.0.0.1 dns.adguard.com
 127.0.0.1 dns-family.adguard.com
+127.0.0.1 uk.adhole.org
+127.0.0.1 de.adhole.org
+127.0.0.1 sg.adhole.org
+127.0.0.1 us-central.adhole.org
+127.0.0.1 us-east.adhole.org
 127.0.0.1 doh.nl.ahadns.net
 127.0.0.1 doh.in.ahadns.net
 127.0.0.1 doh.la.ahadns.net
@@ -89,6 +94,7 @@
 127.0.0.1 doh.this.web.id
 127.0.0.1 dns.twnic.tw
 127.0.0.1 adfree.usableprivacy.net
+127.0.0.1 wevpn.com
 127.0.0.1 doh.crypto.sx
 127.0.0.1 ibksturm.synology.me
 127.0.0.1 freedom.mydns.network

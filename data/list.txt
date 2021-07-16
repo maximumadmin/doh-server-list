@@ -1,6 +1,11 @@
 dns-nyc.aaflalo.me
 dns.adguard.com
 dns-family.adguard.com
+uk.adhole.org
+de.adhole.org
+sg.adhole.org
+us-central.adhole.org
+us-east.adhole.org
 doh.nl.ahadns.net
 doh.in.ahadns.net
 doh.la.ahadns.net
@@ -89,6 +94,7 @@ doh.tiarap.org
 doh.this.web.id
 dns.twnic.tw
 adfree.usableprivacy.net
+wevpn.com
 doh.crypto.sx
 ibksturm.synology.me
 freedom.mydns.network
